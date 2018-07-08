@@ -1,0 +1,19 @@
+body
+{
+background:powderblue;
+ border: 1px solid white;
+}
+
+h
+{
+background:blue;
+color:red;
+border: 2px solid blue;
+}
+p
+{
+background:cyan;
+ border:3px solid cyan;
+padding:20px;
+font-family:Verdana;
+}
